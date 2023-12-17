@@ -37,7 +37,6 @@ class Map:
             print(y)
             self.Set(int(x), int(y), True)
         
-    
 M = Map()
 M.Fill("save1")
 M.Display()
